@@ -1,4 +1,23 @@
-.h1{
-    font-size: 20rem;
-    color:orangered;
+div .header .header_image{
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    min-width: 560px;
+    max-width: 960px;
+}
+
+.main_block{
+    text-align: center;
+    width: 100%;
+    height:auto;
+}
+
+div .footer .footer_image{
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    min-width: 560px;
+    max-width: 960px;
 }

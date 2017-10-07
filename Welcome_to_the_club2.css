@@ -1,0 +1,33 @@
+/*set overall background color*/
+.body{
+    background-color: lightgrey;
+}
+
+/*making header image responsive*/
+.header .header_image{
+    width: 100%;
+    height: auto;
+    max-width: 960px;
+    min-width: 560px;
+    padding: 0px;
+}
+
+.content{
+    margin: auto;
+    text-align: center;
+    background-color: lightgrey;
+    font-family: font-family: 'Slabo 27px', serif;
+    color:
+}
+h1 {
+    padding: 0px;
+}
+
+/*making footer image responsive*/
+.footer .footer_image{
+    width: 100%;
+    height: auto;
+    max-width: 960px;
+    min-width: 560px;
+    padding: 0px;
+}
